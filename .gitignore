@@ -1,0 +1,15 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+
+# Videos (demasiado grandes para GitHub / se regeneran)
+*.mp4
+
+# Material que no se publica
+CLAUDE.md
+Guion video grupal - Analitica de Ocupacion.md
+3. Custom YOLO Object Detection with Roboflow 2.ipynb
